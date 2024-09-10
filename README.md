@@ -1,5 +1,5 @@
 ## Haii there!! 👋
-My name is Davian, a Data Science Enthusiast
+My name is Davian, a Data Science Enthusiast, Grad Student of Informatics from Indonesia
 
 
 - [Linkedin](https://www.linkedin.com/in/davian-benito/)
@@ -7,11 +7,10 @@ My name is Davian, a Data Science Enthusiast
 
 
 ## What I do: 
-- 🔭 I’m currently working on my research in the University
-- 🌱 I’m currently learning AI Engineering
-- 👯 I’m looking to expand and improve my knowledge constantly 
+- 🔭 I’m currently working on my research at university but open to any opportunities.
+- 🌱 I’m expanding my knowledge in AI, mainly on NLP.
+- 👯 Always eager to learn and improve my skills.
 - 💬 Ask me about anything, Lets Talk :D
 - 📫 How to reach me: Just connect and dm me in Linkedin
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: hoho :D
+- ⚡ Fun fact: I’m up for any challenge!
 
