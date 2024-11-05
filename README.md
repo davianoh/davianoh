@@ -1,7 +1,7 @@
 ## Haii there!! 👋
 My name is Davian Benito, a Data Science Enthusiast from Indonesia. 
 
-- [Personal Website](https://davianoh.github.io/personal-portfolio/)
+- [Personal Website](https://davianoh.github.io/davian-portfolio/)
 - [Linkedin](https://www.linkedin.com/in/davian-benito/)
 - [Instagram](https://www.instagram.com/davian_34/)
 
